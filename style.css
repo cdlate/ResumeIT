@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    font: 12px Helvetica, sans-serif;
+    color: #222;
+    margin: 20px 0;
+    line-height: 1.4em;
+}
+h1{
+    font-size: 3.25em;
+}
+blockquote, pre, code, samp, dl, ol, ul, h4, p{
+    margin: 0 0 1.625em;
+}
+blockquote{
+    font-style: italic;
+    padding-left: 1.475em;
+    border-left: 3px solid #ccc;
+}
+pre{
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    font-family: Menlo,Consolas,'DejaVu Sans Mono',Monaco,monospace;
+    padding: 11px;
+}
+abbr[title], dfn[title] {
+    border-bottom: 1px dotted #333;
+    cursor: help;
+}
+a, a:visited
+{
+    color: #222;
+    text-decoration: underline;
+}
+.content{
+    text-align: justify;
+    width:70%;
+    margin:0 auto;
+}
+.gargravarr{
+    display:none;
+}
+#buttons
+{
+    position: absolute;
+    top: 0;
+    left: 8px;
+    border: 0;
+}
+#buttons span
+{
+    float: left;
+    margin-right: 8px;
+    margin-top: 2px;
+}
+#forkme{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+#forkme img,a{border:0px;}
+

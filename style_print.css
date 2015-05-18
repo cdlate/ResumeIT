@@ -1,0 +1,39 @@
+a[href]:after
+{
+    content: " (" attr(href) ")";
+}
+abbr[title]:after
+{
+    content: " " attr(title) " ";
+}
+img
+{
+    page-break-inside: avoid;
+}
+
+p, h2, h3
+{
+    orphans: 3;
+    widows: 3;
+}
+h2, h3
+{
+    page-break-after: avoid;
+}
+pre
+{
+    padding: 0;
+}
+.content
+{
+    width:80%;
+    margin:0 auto;
+}
+#forkme, #buttons, #download
+{
+    display: none;
+}
+a, a:visited
+{
+    text-decoration: none;
+}
