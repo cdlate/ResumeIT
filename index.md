@@ -3,12 +3,10 @@ title: Alberto's CV
 layout: index
 ---
 # Alberto Tedeschi #
-I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in **Sydney Australia** *Temporary Work (Skilled) visa (subclass 457)*.
+Nato il **7 Settembre 1985**, da anni **sviluppo software**.
 
-During my six years of commercial experience and probably many more as amateur coder I've **mastered PHP**, **Javascript**, **C#** and **fluent** in many others **Python**, **C++**, **Java**.
+I sette anni di esperienza professionale mi hanno permesso di **padroneggiare PHP**, **Javascript**, **C#** e diventare fluente in molti altri: **Python**, **C++** e **Java**.
 
-My goal is to **join a team** that is as **enthusiastic and passionate** as I am about **delivering outstanding value** to clients.
- 
 Feel free to contact me by **email** at [alberto@tedeschi.io](mailto:alberto@tedeschi.io).
 
 ## Employment History ##
