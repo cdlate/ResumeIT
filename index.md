@@ -3,71 +3,68 @@ title: Alberto's CV
 layout: index
 ---
 # Alberto Tedeschi #
-Nato il **7 Settembre 1985**, da anni **sviluppo software**.
+Nato il **7 Settembre 1985**, da anni **sviluppo software**, al momento vivo a Reggio Emilia mia citta' natale.
 
-I sette anni di esperienza professionale mi hanno permesso di **padroneggiare PHP**, **Javascript**, **C#** e diventare fluente in molti altri: **Python**, **C++** e **Java**.
+I miei sette anni di esperienza professionale mi hanno permesso di **padroneggiare PHP**, **Javascript**, **C#** e diventare fluente in molti altri linguaggi: **Python**, **C++** e **Java**.
 
-Feel free to contact me by **email** at [alberto@tedeschi.io](mailto:alberto@tedeschi.io).
+Sentitevi liberi di contattarmi via **email** a [alberto@tedeschi.io](mailto:alberto@tedeschi.io).
 
-## Employment History ##
+## Esperienza Professionale ##
 
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
-offers an online fundraising platform that brings charities, event organisers and donors together in a highly effective market place.
+GoFundraise e' la piu' grande azienda Australiana che si occupa di raccolta di fondi online per associazioni senza fine di lucro.
 
-I am currently senior developer at Gofundraise, with respponsibility for the company's website and related systems. For Gofundraise, the website is not only a marketing/sales channel but also the main product of the company. My duties include:
+Sono stato assunto in Gofundraise in qualita' di **senior software developer**, le mie maggiori responsabilita' erano:
 
-* Projects such as our RESTful API and new Event Creator (CMS) platform.
-* Enhancements and bug fixes for the main site (all layers).
-* Updates and improvements to our Reporting and other scheduled services. 
+* Contribuire al project planing fornendo stime e alternative tecniche alle problematiche relative alle nostre attivita' online.
+* Migliorare i sistemi informativi aziendali e bugfixing.
+* Mantenere test funzionali ed end to end testing.
+* Gestire release e database migrations.
 
-The GoFundraise technology stack is ASP.Net MVC 4, Web APi, OData and MSSQL 2012 at the backend. The front end is a mixture of KendoUi and Knockout with Bootstrap and custom css. Supporting/ancilliary systems are built on LogStash, Elastic Search, Kabana and MySql on CentOS.
+Lo stack utilizzato e' composto da ASP.Net MVC 4, Web APi, OData and MSSQL 2012 per il backend. Il front-end e' un mix di KendoUi e Knockout, Bootstrap e molto css custom. 
+I progetti erano gestiti utilizzando prodotti atlassian : Jira, Confluence e Bamboo, solitamente i nostri sprint erano di quattro settimane.
 
-Both Project and Business as Usual tasks are tracked using the Atlassian stack of Confluence and Jira with Bamboo as the Continuous Integration server. We typically run a four week Agile sprint and monitor these using a Jira/Greenhopper Scrum board. 
+#### Methodologia: Agile/Scrum, CI.
 
+#### Technologie: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
-#### Methodology: Agile/Scrum, CI.
-
-#### Technology: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
-
-#### Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
+#### Tools: ELK Stack per il logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
 
 ### Jun 2012 - Apr 2013 ###
-(<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) is a digital media company, providing coding and project management services.
+(<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) e' un'azienda che si occupa per lo piu' di sviluppo mobile e data analytics.
 
-I was reposonible for the development, enhancement and bug fixing of their tracing platform. This was a sophisticated aggregator of statistical data coming from heterogenious tracking engines.
+La posizione da me ricoperta in Gomeeki e' senior software developer.
+Mi sono occupato dello sviluppo di alcuni siti mobile solitamente integrati con api esterne eg. [m.ahg.com.au](http://m.ahg.com.au) e dello sviluppo del loro principale prodotto chiamato Ubiquity, un aggregatore di dati provenienti da diverse piattaforme per l'analisi dei dati( Piwik, GA, etc ). 
 
-The technology stack was PHP (Yii Framework), Bootstrap.js, JQuery, BackBone, GA API, Piwik and his API. My duties included both the frontend and backend development.
+Le tecnologie utilizzate sono state: PHP (Yii Framework), Bootstrap.js, JQuery, BackBone, GA API, Piwik and his API. 
 
-During this time, I also developed and deployed mobile websites eg. [m.ahg.com.au](http://m.ahg.com.au) for Gomeeki clients, this involved complex data gathering from backend systems and integrating various CRM/ERP systems, usually through RestFul/SOAP APIs.
+#### Methodologia: Agile/Scrum, CI.
 
-#### Methodology: Agile/Scrum, CI.
-
-#### Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, Amazon AWS, Java.
+#### Technologie: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, Amazon AWS, Java.
 
 #### Tools: Jira, Git, GitHub, New Relic.
 
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
- is a digital media company, providing coding and project management services.
+ e' un'azienda di comunicazione con sede a Reggio Nell'Emilia dove ho ricoperto la posizione di senior developer.
 
-My main responsibility whilst at Be & Partners was developing their Content Management System (CMS) written in PHP on the Zend Framework.
-During my employment I added many new features, including: 
+Ho collaborato con Be &amp; Partners per circa tre mesi, lo scopo della nostra collaborazione era principalmente l'estensione del loro CMS interno, le funzioni aggiunte sono state utilizzate per lo sviluppo del sito web di un'importante azienda Emiliana: DeRoma.
 
-* A RestFul API to import lists of products. 
-* Support for multiple product lists and multiple localizations. 
-* The ability to download product catalogues as Pdfs. 
-* The implemenation of an Access Control List (ACL) system to manage security.
-* The inclusion of and image uploader/resizer for the CMS, developed using JQuery and GDLib.
+Le funzionalita' sviluppate sono:
+* Gestione importazione cataloghi. 
+* Localizzazione e supporto a multipli cataloghi. 
+* Stampa su pdf e caching dei cataloghi. 
+* Implementazione Access Control List (ACL) e supporto multi-utente.
+* Implementazione di un sistema che consentisse il ridimensionamento e il taglio in automatico delle immagini.
 
-These features then allowed a collegue and I to develop [www.deroma.com](http://www.deroma.com), which is now live in Italy, Us, France, Spain and Japan.
+In seguito la nuova versione del CMS e' stata utilizzata per lo sviluppo di [www.deroma.com](http://www.deroma.com), ora attivo in Europa, Giappone, USA etc.
 
-#### Methodology: Waterfall.
+#### Methodologia: Waterfall.
 
-
-#### Technologies: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
+#### Technologie: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
 
 #### Tools: SVN, Custom ticketing system, NetBeans.
 
