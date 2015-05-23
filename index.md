@@ -11,7 +11,7 @@ Sentitevi liberi di contattarmi via **email** a [alberto@tedeschi.io](mailto:alb
 
 ## Esperienza Professionale ##
 
-### Apr 2012 - Today ###
+### Apr 2013 - Apr 2015 ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
 GoFundraise e' la piu' grande azienda Australiana che si occupa di raccolta di fondi online per associazioni senza fine di lucro.
 
@@ -22,8 +22,7 @@ Sono stato assunto in Gofundraise in qualita' di **senior software developer**, 
 * Mantenere test funzionali ed end to end testing.
 * Gestire release e database migrations.
 
-Lo stack utilizzato e' composto da ASP.Net MVC 4, Web APi, OData and MSSQL 2012 per il backend. Il front-end e' un mix di KendoUi e Knockout, Bootstrap e molto css custom. 
-I progetti erano gestiti utilizzando prodotti atlassian : Jira, Confluence e Bamboo, solitamente i nostri sprint erano di quattro settimane.
+Alcune delle progetti 
 
 #### Metodologia: Agile/Scrum, CI.
 
