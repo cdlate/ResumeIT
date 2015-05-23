@@ -31,7 +31,7 @@ Alcune delle progetti
 #### Tools: ELK Stack per il logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
 
-### Jun 2012 - Apr 2013 ###
+### Giu 2012 - Apr 2013 ###
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) e' un'azienda che si occupa per lo piu' di sviluppo mobile e data analytics.
 
 La posizione da me ricoperta in Gomeeki e' senior software developer.
@@ -46,7 +46,7 @@ Le tecnologie utilizzate sono state: PHP (Yii Framework), Bootstrap.js, JQuery, 
 #### Tools: Jira, Git, GitHub, New Relic.
 
 
-### Mar 2012 - Jun 2012  ###
+### Mar 2012 - Giu 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
  e' un'azienda di comunicazione con sede a Reggio Nell'Emilia dove ho ricoperto la posizione di senior developer.
 
@@ -116,7 +116,7 @@ Ero stato assunto in veste di junior developer durante i tre anni di collaborazi
 
 ## Altre Esperienze in ambito IT##
 
-### 2007 - Now ###
+### 2007 - Ora ###
 Continuo a studiare nuovi linguaggi e testare .net vNext.
 
 
