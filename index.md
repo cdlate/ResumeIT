@@ -25,9 +25,9 @@ Sono stato assunto in Gofundraise in qualita' di **senior software developer**, 
 Lo stack utilizzato e' composto da ASP.Net MVC 4, Web APi, OData and MSSQL 2012 per il backend. Il front-end e' un mix di KendoUi e Knockout, Bootstrap e molto css custom. 
 I progetti erano gestiti utilizzando prodotti atlassian : Jira, Confluence e Bamboo, solitamente i nostri sprint erano di quattro settimane.
 
-#### Methodologia: Agile/Scrum, CI.
+#### Metodologia: Agile/Scrum, CI.
 
-#### Technologie: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+#### Tecnologie: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
 #### Tools: ELK Stack per il logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
@@ -40,9 +40,9 @@ Mi sono occupato dello sviluppo di alcuni siti mobile solitamente integrati con 
 
 Le tecnologie utilizzate sono state: PHP (Yii Framework), Bootstrap.js, JQuery, BackBone, GA API, Piwik and his API. 
 
-#### Methodologia: Agile/Scrum, CI.
+#### Metodologia: Agile/Scrum, CI.
 
-#### Technologie: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, Amazon AWS, Java.
+#### Tecnologie: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, Amazon AWS, Java.
 
 #### Tools: Jira, Git, GitHub, New Relic.
 
@@ -62,82 +62,73 @@ Le funzionalita' sviluppate sono:
 
 In seguito la nuova versione del CMS e' stata utilizzata per lo sviluppo di [www.deroma.com](http://www.deroma.com), ora attivo in Europa, Giappone, USA etc.
 
-#### Methodologia: Waterfall.
+#### Metodologia: Waterfall.
 
-#### Technologie: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
+#### Tecnologie: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
 
 #### Tools: SVN, Custom ticketing system, NetBeans.
 
 
 ### Oct 2011 - Feb 2011 ###
-(<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) specialises in identifying and building proven Internet business models and transfering them to new, underserved or untapped markets.
+(<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) e' un'azienda tedesca specializzata nel creare nuovi buisness models ed esportarli in mercati meno competitivi o in via di sviluppo.
 
-As part of a team of twenty developers, my main focus was on implementing new features and bug fixing the e-commerce solution. The technology stack was PHP with thw Zend Framework and Yii Framework plus memcached and Solr.
+Assunto come junior developer, le mie responsabilita' erano il bugfixing e l'implementazione di nuove funzionalita' sulla loro piattaforma di e-commerce, una versione estremamente personalizzata di magento.
 
-Working at Rocket was the most wonderful and exiting working experience I have ever had. Projects were managed through the agile/scrum methodology, and it gave me the opportunity to improve a wide range of skills. I also met some of best developers I ever knew and it was been an honor and a pleasure to work in that awesome team.
-My duties were: 
+Lavorare a Rocket e' stato molto stimolante, essere negli uffici durante il lancio dell'equivalente europeo di Zalando per il sud est asiatico e' stato meraviglioso.
 
-* Bug fixing their ecommerce system on both the frontend and backend. 
-* Implement some new feature(Eg. Css/Js minifier). 
-* Merge and deploy branches from the Devs and teaching to the new guys how to do that.
+Attivita': 
 
-#### Methodology: Agile/KanBan, CI, CD.
+* Bug fixing.
+* Implementazione nuove funzionalita' (Eg. Css/Js minifier). 
+* Merging e deployment.
+* Mi occupavo inoltre di presentare il progetto e i tools utilizzati alle nuove leve.
 
-#### Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
+#### Metodologia: Agile/KanBan, CI, CD.
+
+#### Tecnologia: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
 
 #### Tools: SVN, Jira, Confluence, PhpStorm.
 
 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL</abbr>) 
- Is a little software house, the company offers a wide range of IT services to their clients selling hardware, custom software, website design, CRM, hosting, search engine optimization, technical support, and network design.
-I was hired as junior developer, after three years I ended up managing their cloud infrastructure and architecting/implementing most of the web projects.
+E' una software house, l'azienda offre una vasta gamma di servizi IT: vendita hardware, software personalizzato, web design, hosting, search engine optimization, supporto tecnico etc. etc.
 
-My duties included:
+Ero stato assunto in veste di junior developer durante i tre anni di collaborazione mi sono occupato di:
 
-* Custom CMS development.
-* Integration of the CMS with customer's ERP/CRM.
-* Development and deployment of dynamic websites usually based on our custom CMS solution and web applications.
-* Development of a custom reporting platform.
-* Domains and hosting management.
-* Migration of the existing projects to new infrastructures.
-* Search Engine Optimization (SEO) was part of my routine as main developer of CMS solutions.
-* Support other DEVs team while working on critical projects (C++).
-* Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
+* Sviluppo del loro CMS.
+* Integrazioni ERP/CRM con i nostri sistemi( ECommerce/Reporting ).
+* Sviluppo siti web solitamente basati sul loro CMS proprietario.
+* Sviluppo piattaforme report.
+* Gestione domini e hosting.
+* Migrazione dei progetti esistenti in nuove infrastrutture.
+* Search Engine Optimization (SEO).
 
+#### Metodologia: Agile/Scrum and Waterfall for little projects.
 
-#### Methodology: Agile/Scrum and Waterfall for little projects.
-
-#### Technologies: Zend, MySql, JQuery, Javascript, Rest/Soap web services, Apache Fop, XSLT, C++, Visual Basic.
+#### Tecnologie: Zend, MySql, JQuery, Javascript, Rest/Soap web services, Apache Fop, XSLT, C++, Visual Basic.
 
 #### Tools: SVN, Custom ticketing system, NetBeans/Visual Studio.
 
-## Personal Experience ##
+## Altre Esperienze in ambito IT##
 
 ### 2007 - Now ###
-Keep studying new languages, picking up IT related skills, and playing with .net vNext.
+Continuo a studiare nuovi linguaggi e testare .net vNext.
 
 
 ### 2005 ###
-Successfully developed a video surveillance software in C++ with motion detection and able to handle up to 16 cameras as my final exam project at high school.  
-
-### 2003 - 2004 ###
-During high school I had a lot of time to spend on my keyboard so I tried to develop my own video game in C++, I could successfully implement the controls and some of the graphics using OpenGL and DirectInput.
-Developing a video game is quite a big job for only one dev, I got lost trying to import models from 3D Studio.
+Sviluppato software video sorveglianza in C++ poteva controllare fino a 16 telecamere, e offriva funzionalita' di motion detection.
 
 ### 2002 ###
-Developed a dynamic website for my Starcraft clan base on LAMP stack, today only the forum is still up ( [www.clan-the.net/forum/](http://www.clan-the.net/forum/) ).
+Sviluppato un sito web dinamico per il mio team di starcraft basato su LAMP, ad oggi solo il forum e' ancora online ( [www.clan-the.net/forum/](http://www.clan-the.net/forum/) ).
 
-### 1997 ###
-My first line of basic on a Commodore 64.
+## Educazione ##
 
-## Education ##
+### Universita' di Modena e Reggio Emilia 2006/2010###
 
-### Modena University 2006/2010###
-
-Six major still left, hopefully at some point I'll be able to finish off, I'm still studying anyway... 
+Continuano a mancarmi sei esami alla laurea in fisica, continuo a studiare ma il mio focus e' ora sull'IT, in particolare sono un grande fan dei MOOC e del continuous improvement.
 
 ### Itis F. Corni, Modena, Italy 2004/2005 
 
-Got my IT Diploma 87/100.
+Conseguito il titolo di Perito Industriale specializzazione informatica. Voto: 87/100.
 
