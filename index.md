@@ -22,7 +22,6 @@ Sono stato assunto in Gofundraise in qualita' di **senior software developer**, 
 * Mantenere test funzionali ed end to end testing.
 * Gestire release e database migrations.
 
-Alcune delle progetti 
 
 #### Metodologia: Agile/Scrum, CI.
 
