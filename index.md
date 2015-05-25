@@ -54,13 +54,9 @@ Ho collaborato con Be &amp; Partners per circa tre mesi, lo scopo della nostra c
 Le funzionalita' sviluppate sono:
 
 * Gestione importazione cataloghi. 
-
 * Localizzazione e supporto a multipli cataloghi. 
-
 * Stampa su pdf e caching dei cataloghi. 
-
 * Implementazione Access Control List (ACL) e supporto multi-utente.
-
 * Implementazione di un sistema che consentisse il ridimensionamento e il taglio in automatico delle immagini.
 
 In seguito la nuova versione del CMS e' stata utilizzata per lo sviluppo di [www.deroma.com](http://www.deroma.com), ora attivo in Europa, Giappone, USA etc.
